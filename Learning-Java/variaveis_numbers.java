@@ -55,7 +55,10 @@ public class variaveis_numbers {
 * 
 * as variaveis precisam estar declaradas anteriormente.
 * */
-		
+
+
+
+	// String não é um tipo  primitivo e sim um objeto e uma classe. 
 		String Name = "Pedro";
 		int Year = 21;
 		double Salario = 2582;
@@ -69,4 +72,5 @@ public class variaveis_numbers {
 //Final método.	
 	
 }
+
 // Final classe
